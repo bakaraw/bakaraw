@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Leaving this as is for now 👀
+- Leaving this as is for now 👀
