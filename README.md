@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Leaving this as is for now 👀
+- beginner 🌱
+- Focused on learning React and Go 🔭
