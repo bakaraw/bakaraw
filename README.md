@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - beginner 🌱
-- Focused on learning React and Go 🔭
+- Focused on learning Python and Go 🔭
